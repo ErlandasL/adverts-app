@@ -1,0 +1,6 @@
+module Pods_AdvertsProject_AdvertsProjectTests {
+  umbrella header "Pods-AdvertsProject-AdvertsProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
